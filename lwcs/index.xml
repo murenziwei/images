@@ -4,7 +4,7 @@
 	<item>
 		<!-- item: 一个item为一条数据，单文件最大允许5000条，且文件大小不应超过5M -->
 		<key>
-			<![CDATA[123456douguo]]>
+			<![CDATA[123456lwcs]]>
 		</key>
 		<display type="object">
 			<!-- display：数据区域，不能修改或者删除字段，可增加字段，节点总大小上限20KB，不建议超过3KB，必须字段 -->
