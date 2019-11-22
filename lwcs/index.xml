@@ -25,7 +25,7 @@
 			</lightapp_path>
 			<!-- lightapp_path: 小程序内部PATH，PATH开头省略/，例如：pages/xxx，而不是/pages/xxx，字符串类型，必须字段 -->
 			<slogan type="string">
-				<![CDATA[]]>
+				<![CDATA[看笑话，测星座~]]>
 			</slogan>
 			<!--slogn type:运用于官网大功能样式title后缀，字数控制在10字符内，短摘要可以不填写此字段，长摘要必选字段 -->
 			<description type="string">
